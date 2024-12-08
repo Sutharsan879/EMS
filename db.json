@@ -1,0 +1,32 @@
+{
+  "agreements": [
+    {
+      "id": "1",
+      "employeeName": "John Doe",
+      "department": "HRC",
+      "position": "Manager",
+      "agreementDate": "2024-01-01"
+    },
+    {
+      "id": "2",
+      "employeeName": "Jane Smith",
+      "department": "Engineering",
+      "position": "Developer",
+      "agreementDate": "2024-01-02"
+    },
+    {
+      "id": "4",
+      "employeeName": "Ranjith",
+      "department": "CSE",
+      "position": "User",
+      "agreementDate": "2024-12-04"
+    },
+    {
+      "id": "10d3",
+      "employeeName": "Sutharsan",
+      "department": "CSE",
+      "position": "Admin",
+      "agreementDate": "2024-12-08"
+    }
+  ]
+}
